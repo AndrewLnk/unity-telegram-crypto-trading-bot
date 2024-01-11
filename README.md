@@ -80,5 +80,5 @@ The bot is intuitive. The trading process is carried out when the bot is started
 ____
 
 ## Contacts
-Email: andrew.olenk@gmail.com
+Email: andrew.olenk@gmail.com    
 Support: THW4xRFC7N76Hofopt9TZhynFV76PnEarY (USDT TRC20)
