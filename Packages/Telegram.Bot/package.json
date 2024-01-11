@@ -1,0 +1,20 @@
+{
+    "name": "org.nuget.telegram.bot",
+    "version": "19.0.0",
+    "displayName": "Telegram Bot API Client",
+    "description": "The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram.",
+    "unity": "2018.3",
+    "keywords": [
+        "Telegram",
+        "Bot",
+        "Api",
+        "Payment",
+        "Inline",
+        "Games"
+    ],
+    "author": {
+        "name": "RoundRobin,Poulad,tuscen",
+        "email": "",
+        "url": "https://github.com/TelegramBots/telegram.bot"
+    }
+}

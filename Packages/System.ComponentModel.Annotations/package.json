@@ -1,0 +1,15 @@
+{
+    "name": "org.nuget.system.componentmodel.annotations",
+    "version": "5.0.0",
+    "displayName": "System.ComponentModel.Annotations",
+    "description": "Provides attributes that are used to define metadata for objects used as data sources.\n\nCommonly Used Types:\nSystem.ComponentModel.DataAnnotations.ValidationResult\nSystem.ComponentModel.DataAnnotations.IValidatableObject\nSystem.ComponentModel.DataAnnotations.ValidationAttribute\nSystem.ComponentModel.DataAnnotations.RequiredAttribute\nSystem.ComponentModel.DataAnnotations.StringLengthAttribute\nSystem.ComponentModel.DataAnnotations.DisplayAttribute\nSystem.ComponentModel.DataAnnotations.RegularExpressionAttribute\nSystem.ComponentModel.DataAnnotations.DataTypeAttribute\nSystem.ComponentModel.DataAnnotations.RangeAttribute\nSystem.ComponentModel.DataAnnotations.KeyAttribute\n \nWhen using NuGet 3.x this package requires at least version 3.4.",
+    "unity": "2018.3",
+    "keywords": [
+        ""
+    ],
+    "author": {
+        "name": "Microsoft",
+        "email": "",
+        "url": "https://github.com/dotnet/runtime"
+    }
+}

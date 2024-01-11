@@ -1,0 +1,15 @@
+{
+    "name": "org.nuget.cryptoexchange.net",
+    "version": "5.4.3",
+    "displayName": "CryptoExchange.Net",
+    "description": "A base package for implementing cryptocurrency API's",
+    "unity": "2018.3",
+    "keywords": [
+        ""
+    ],
+    "author": {
+        "name": "JKorf",
+        "email": "",
+        "url": "https://github.com/JKorf/CryptoExchange.Net"
+    }
+}

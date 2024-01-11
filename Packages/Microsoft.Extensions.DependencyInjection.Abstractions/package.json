@@ -1,0 +1,16 @@
+{
+    "name": "org.nuget.microsoft.extensions.dependencyinjection.abstractions",
+    "version": "3.1.32",
+    "displayName": "Microsoft.Extensions.DependencyInjection.Abstractions",
+    "description": "Abstractions for dependency injection.\nCommonly used types:\nMicrosoft.Extensions.DependencyInjection.IServiceCollection",
+    "unity": "2018.3",
+    "keywords": [
+        "dependencyinjection",
+        "di"
+    ],
+    "author": {
+        "name": "Microsoft",
+        "email": "",
+        "url": "https://asp.net/"
+    }
+}

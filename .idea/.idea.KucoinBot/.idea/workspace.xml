@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="234ecef0-00af-481e-aba7-1602005937a5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Telegram/AppState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5a41d6b7189842eca409fd0b1c3e3dcf17bf78/13/System.Reflection.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Telegram/Main/SellTransactionsProcess.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/d78c627954db4c998451c3a806617da574200/C/KucoinClientSpotApiTrading.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Telegram/Main/MainCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/d78c627954db4c998451c3a806617da574200/7/KucoinClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3e811059ff4c4ed78d6b09032e7c0bc836000/65/33a53e14/RestApiClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/d78c627954db4c998451c3a806617da574200/38/KlineInterval.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Telegram/Main/ActionSetup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tools/MainSync.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Telegram/Main/MenuSetup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/d78c627954db4c998451c3a806617da574200/9/KucoinClientSpotApi.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Telegram/Main/ActionsCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tools/IntervalToTimeSpan.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tools/Sync.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Main/PricesData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Telegram/Main/SettingsProcess.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Main/Trading/TradingTargetData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/304e7190ef13437a809638022e61b0355ea00/B9/Chat.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Telegram/Main/Login.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Telegram/Main/MainMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5a41d6b7189842eca409fd0b1c3e3dcf17bf78/8/System.Net.Http.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Telegram/Main/BuyAmountProcess.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1417f4d231514a2c820b42edb1f3e29e5b600/108/MenuButton.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5a41d6b7189842eca409fd0b1c3e3dcf17bf78/42/System.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Telegram/Main/SellAmountProcess.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoreAnalyzer/CoreParams.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Telegram/Main/UpdateAnchorProcess.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Telegram/Main/CheckInitializedSetup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UserData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tools/LocalKlineInterval.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Main/TransfersCenter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/d78c627954db4c998451c3a806617da574200/56/IKucoinClientSpotApi.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5a41d6b7189842eca409fd0b1c3e3dcf17bf78/30/System.Net.Mail.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scene/EntryPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/d78c627954db4c998451c3a806617da574200/59/IKucoinClientSpotApiTrading.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Telegram/TelegramEntry.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2MuSL6NKoWwpWhlBlBo5Wlh9EJ8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="234ecef0-00af-481e-aba7-1602005937a5" name="Changes" comment="" />
+      <created>1678615915146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678615915146</updated>
+      <workItem from="1678615932308" duration="37830000" />
+      <workItem from="1678663781127" duration="222000" />
+      <workItem from="1678664366273" duration="175000" />
+      <workItem from="1678685079588" duration="1308000" />
+      <workItem from="1678687346822" duration="410000" />
+      <workItem from="1678688861234" duration="238000" />
+      <workItem from="1678690682807" duration="3626000" />
+      <workItem from="1678694902468" duration="10625000" />
+      <workItem from="1678708668832" duration="1447000" />
+      <workItem from="1678711252061" duration="546000" />
+      <workItem from="1678717742000" duration="872000" />
+      <workItem from="1678719128226" duration="267000" />
+      <workItem from="1678720251651" duration="453000" />
+      <workItem from="1678732195418" duration="4364000" />
+      <workItem from="1678736806495" duration="542000" />
+      <workItem from="1678737873588" duration="924000" />
+      <workItem from="1678798380753" duration="5934000" />
+      <workItem from="1678827382886" duration="2603000" />
+      <workItem from="1678831055941" duration="1361000" />
+      <workItem from="1678867953442" duration="2080000" />
+      <workItem from="1678872775675" duration="1078000" />
+      <workItem from="1678874402409" duration="246000" />
+      <workItem from="1678959524552" duration="3268000" />
+      <workItem from="1678973493847" duration="1960000" />
+      <workItem from="1678975816617" duration="135000" />
+      <workItem from="1678982064724" duration="2528000" />
+      <workItem from="1678985756451" duration="840000" />
+      <workItem from="1679036782551" duration="102000" />
+      <workItem from="1679059595566" duration="4449000" />
+      <workItem from="1679077661274" duration="800000" />
+      <workItem from="1679111132622" duration="2252000" />
+      <workItem from="1679122249894" duration="921000" />
+      <workItem from="1679141118441" duration="627000" />
+      <workItem from="1679161892349" duration="220000" />
+      <workItem from="1679168233900" duration="3261000" />
+      <workItem from="1679425387505" duration="23827000" />
+      <workItem from="1679476996795" duration="10596000" />
+      <workItem from="1679497933795" duration="1966000" />
+      <workItem from="1679515327512" duration="1604000" />
+      <workItem from="1679554985504" duration="875000" />
+      <workItem from="1679559627800" duration="3523000" />
+      <workItem from="1679563573602" duration="754000" />
+      <workItem from="1679565445598" duration="111000" />
+      <workItem from="1679577816520" duration="696000" />
+      <workItem from="1679642658424" duration="1472000" />
+      <workItem from="1679658335296" duration="10363000" />
+      <workItem from="1679669838105" duration="1137000" />
+      <workItem from="1679672027868" duration="401000" />
+      <workItem from="1679686250690" duration="1308000" />
+      <workItem from="1679720728129" duration="219000" />
+      <workItem from="1679824084036" duration="4461000" />
+      <workItem from="1679893419223" duration="2262000" />
+      <workItem from="1679900728909" duration="690000" />
+      <workItem from="1679901897523" duration="810000" />
+      <workItem from="1679935165948" duration="6830000" />
+      <workItem from="1679947780348" duration="1012000" />
+      <workItem from="1679950092636" duration="488000" />
+      <workItem from="1679951136315" duration="554000" />
+      <workItem from="1679958258431" duration="662000" />
+      <workItem from="1679959252222" duration="1176000" />
+      <workItem from="1679990164496" duration="2050000" />
+      <workItem from="1680002752021" duration="7678000" />
+      <workItem from="1680026815138" duration="3125000" />
+      <workItem from="1680037997905" duration="1175000" />
+      <workItem from="1680062586920" duration="2467000" />
+      <workItem from="1680091574268" duration="1473000" />
+      <workItem from="1680100469197" duration="907000" />
+      <workItem from="1680106669325" duration="3267000" />
+      <workItem from="1680174772382" duration="6484000" />
+      <workItem from="1680252063558" duration="12240000" />
+      <workItem from="1680276076872" duration="23050000" />
+      <workItem from="1680305623438" duration="2035000" />
+      <workItem from="1680368507845" duration="2437000" />
+      <workItem from="1680371010671" duration="116000" />
+      <workItem from="1680416025904" duration="6321000" />
+      <workItem from="1680453456554" duration="2410000" />
+      <workItem from="1680532462037" duration="2710000" />
+      <workItem from="1680539879964" duration="5127000" />
+      <workItem from="1680552581610" duration="53713000" />
+      <workItem from="1680629034024" duration="546000" />
+      <workItem from="1680630174542" duration="67000" />
+      <workItem from="1680882656514" duration="834000" />
+      <workItem from="1681754316155" duration="2356000" />
+      <workItem from="1681757573485" duration="1863000" />
+      <workItem from="1681797322438" duration="500000" />
+      <workItem from="1704270065885" duration="13249000" />
+      <workItem from="1704287562792" duration="925000" />
+      <workItem from="1704288872140" duration="81000" />
+      <workItem from="1704294938119" duration="344000" />
+      <workItem from="1704363777041" duration="5430000" />
+      <workItem from="1704376110403" duration="722000" />
+      <workItem from="1704377525298" duration="1157000" />
+      <workItem from="1704541136114" duration="3542000" />
+      <workItem from="1704966451680" duration="3075000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

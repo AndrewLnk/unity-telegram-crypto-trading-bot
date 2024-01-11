@@ -1,0 +1,22 @@
+{
+    "name": "org.nuget.kucoin.net",
+    "version": "4.3.1",
+    "displayName": "Kucoin.Net",
+    "description": "Kucoin.Net is a .Net wrapper for the Kucoin API. It includes all features the API provides, REST API and Websocket, using clear and readable objects including but not limited to Reading market info, Placing and managing orders and Reading balances and funds",
+    "unity": "2018.3",
+    "keywords": [
+        "Kucoin",
+        "Kucoin.Net",
+        "C#",
+        ".Net",
+        "CryptoCurrency",
+        "Exchange",
+        "API",
+        "wrapper"
+    ],
+    "author": {
+        "name": "JKorf",
+        "email": "",
+        "url": "https://github.com/JKorf/Kucoin.Net"
+    }
+}

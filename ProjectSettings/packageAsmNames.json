@@ -1,0 +1,40 @@
+{
+    "managedList": [
+        {
+            "packageName": "Kucoin.Net",
+            "fileNames": [
+                "Kucoin.Net"
+            ]
+        },
+        {
+            "packageName": "Microsoft.Extensions.DependencyInjection.Abstractions",
+            "fileNames": [
+                "Microsoft.Extensions.DependencyInjection.Abstractions"
+            ]
+        },
+        {
+            "packageName": "Microsoft.Extensions.Logging.Abstractions",
+            "fileNames": [
+                "Microsoft.Extensions.Logging.Abstractions"
+            ]
+        },
+        {
+            "packageName": "System.ComponentModel.Annotations",
+            "fileNames": [
+                "System.ComponentModel.Annotations"
+            ]
+        },
+        {
+            "packageName": "Telegram.Bot",
+            "fileNames": [
+                "Telegram.Bot"
+            ]
+        },
+        {
+            "packageName": "CryptoExchange.Net",
+            "fileNames": [
+                "CryptoExchange.Net"
+            ]
+        }
+    ]
+}

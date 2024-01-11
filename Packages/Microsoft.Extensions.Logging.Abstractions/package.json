@@ -1,0 +1,15 @@
+{
+    "name": "org.nuget.microsoft.extensions.logging.abstractions",
+    "version": "3.1.32",
+    "displayName": "Microsoft.Extensions.Logging.Abstractions",
+    "description": "Logging abstractions for Microsoft.Extensions.Logging.\nCommonly used types:\nMicrosoft.Extensions.Logging.ILogger\nMicrosoft.Extensions.Logging.ILoggerFactory\nMicrosoft.Extensions.Logging.ILogger<TCategoryName>\nMicrosoft.Extensions.Logging.LogLevel\nMicrosoft.Extensions.Logging.Logger<T>\nMicrosoft.Extensions.Logging.LoggerMessage\nMicrosoft.Extensions.Logging.Abstractions.NullLogger",
+    "unity": "2018.3",
+    "keywords": [
+        "logging"
+    ],
+    "author": {
+        "name": "Microsoft",
+        "email": "",
+        "url": "https://asp.net/"
+    }
+}
